@@ -1,5 +1,3 @@
-# Mohini_Priya
-
 # Hi, I'm Mohini Priya 👋
 
 Aspiring data analyst with a love for uncovering patterns and trends. Exploring data science, visualization, and real-world problem solving.
@@ -31,6 +29,7 @@ I’m passionate about uncovering actionable insights from data. The ability to 
 ## Get in Touch
 
 - 📧 Email: mmohinipriya@gmail.com
+-[LinkedIn](https://www.linkedin.com/in/mohini-priya-9a308b128)
 
 ---
 
